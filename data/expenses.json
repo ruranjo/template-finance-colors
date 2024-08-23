@@ -1,0 +1,27 @@
+[
+    {
+      "id": "1",
+      "name": "Transfert",
+      "amount": "150.00",
+      "percentage": "10"
+    },
+    {
+      "id": "2",
+      "name": "Utils",
+      "amount": "200.00",
+      "percentage": "13"
+    },
+    {
+      "id": "3",
+      "name": "Foods",
+      "amount": "250.00",
+      "percentage": "16"
+    },
+    {
+      "id": "4",
+      "name": "Health",
+      "amount": "400.00",
+      "percentage": "26"
+    }
+  ]
+  
